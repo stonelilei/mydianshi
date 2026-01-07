@@ -116,6 +116,19 @@ BesTV-3,http://iptv.lilei.life:5140/rtp/233.50.200.185:5140
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广东体育,http://74.91.26.218:82/live/gdty.m3u8
+CCTV1,http://74.91.26.218:82/live/cctv1.m3u8
+CCTV6,http://74.91.26.218:82/live/cctv6.m3u8
+CCTV8,http://74.91.26.218:82/live/cctv8.m3u8
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+美亚电影,http://74.91.26.218:82/live/mydy.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
+中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
+Z频道,http://74.91.26.218:82/live/twz.m3u8
 知识频道,#genre#
 BBC Earth,P2p://starvod.xyz:19806/d224bc93c97946d387701bbcf165afad.ts
 探索頻道,P2p://starvod.xyz:19806/3dd114a2f6534af997c08015c712b218.ts
@@ -138,6 +151,7 @@ Love Nature,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
 EYE TV旅遊台,P2p://starvod.xyz:19806/d81b21f72705424badcf98dfcef332f4.ts
 CCTV9,P2p://starvod.xyz:19806/4b3fd9633685492aa440c96a6fb2c769.ts
 TLC旅遊生活,P2p://starvod.xyz:19806/e32dafaf7fa440edaf439ff36d13105a.ts
+
 
 
 
