@@ -16,6 +16,7 @@ CCTV14,http://iptv.lilei.life:5140/rtp/233.50.201.124:5140
 CCTV15,http://iptv.lilei.life:5140/rtp/233.50.200.133:5140
 CCTV16,http://iptv.lilei.life:5140/rtp/233.50.201.192:5140
 CCTV17,http://iptv.lilei.life:5140/rtp/233.50.200.113:5140
+CCTV8K,http://yp.qqqtv.top/1/api.php?id=CCTV-8K%E8%B6%85%E9%AB%98%E6%B8%85&auth=666858
 凤凰中文,http://iptv.lilei.life:5140/rtp/233.50.202.35:5140
 凤凰资讯,http://iptv.lilei.life:5140/rtp/233.50.202.36:5140
 河南卫视,http://iptv.lilei.life:5140/rtp/233.50.201.144:5140
@@ -116,17 +117,6 @@ BesTV-3,http://iptv.lilei.life:5140/rtp/233.50.200.185:5140
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-广东体育,http://74.91.26.218:82/live/gdty.m3u8
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
-无线新闻台,http://74.91.26.218:82/live/inews.m3u8
-TVB Plus,http://74.91.26.218:82/live/j2.m3u8
-美亚电影,http://74.91.26.218:82/live/mydy.m3u8
-天映频道,http://74.91.26.218:82/live/typd.m3u8
-天映经典,http://74.91.26.218:82/live/tyjd.m3u8
-NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
-中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
-Z频道,http://74.91.26.218:82/live/twz.m3u8
-
 
 
 
