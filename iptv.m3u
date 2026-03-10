@@ -91,8 +91,6 @@ BesTV-2,http://hn.lilei.life:5140/rtp/233.50.200.183:5140
 BesTV-3,http://hn.lilei.life:5140/rtp/233.50.200.185:5140
 中国教育1台,http://hn.lilei.life:5140/rtp/233.50.200.169:5140
 中国教育4台,http://hn.lilei.life:5140/rtp/233.50.200.174:5140
-美亚电影,http://hn.4666888.xyz/hn2A.php?id=30
-美亚电影,http://bxtv.3a.ink/api.php?id=meiya
 杭州综合,http://hn.lilei.life:5140/rtp/233.50.201.173:5140
 杭州西湖明珠,http://hn.lilei.life:5140/rtp/233.50.201.174:5140
 杭州生活,http://hn.lilei.life:5140/rtp/233.50.201.175:5140
@@ -124,9 +122,31 @@ BesTV-3,http://hn.lilei.life:5140/rtp/233.50.200.185:5140
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-CCTV4K真4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
-河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
+CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+电影频道,#genre#
+天映新加坡,,https://cdn10.163189.xyz/stream/163189/typd/
+天映经典频道,https://cdn10.163189.xyz/stream/163189/ccm/
+千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
+天映频道,http://o11.163189.xyz/stream/live/typd/
+天映经典频道,http://o11.163189.xyz/stream/live/ccm/
+八大精彩,https://jntv.cc.cd/live/rx2/1024/9c5eb6efea98b18aa7a0e60cae1af719/index.m3u8
+緯來育樂,https://jntv.cc.cd/live/rx2/338/c06158c013d1a6c8942ff17a21cd1a1d/index.m3u8
+ELTA娛樂台,https://jntv.cc.cd/live/rx6/351/b2881bc6da8323af9416007191fc490f/index.m3u8
+韓國娛樂,http://jntv.cc.cd/live/rx1/73/1f82c54cb490271246703741c5c31ed8/index.m3u8
+TVN台湾版,https://jntv.cc.cd/live/rx1/2288/a325ce8ab891a5568ebe4679b389e80f/index.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+緯來電影,https://jntv.cc.cd/live/rx2/2728/0f177c09ae2291f7f2fd7226d9d63600/index.m3u8
+HBO HD,https://jntv.cc.cd/live/rx1/2823/8a2198921f121bda12a2d7c3d908bd29/index.m3u8
+龍華偶像,https://jntv.cc.cd/live/rx1/385/6893c00017254515f9e83206ed603dac/index.m3u8
+霹靂臺灣,https://jntv.cc.cd/live/rx2/1339/ad14e3e3f16d2ab0c67eaf809481453d/index.m3u8
+美亞電影,https://jntv.cc.cd/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8
+龍華經典,http://jntv.cc.cd/live/rx6/100/382f6a8ecde4c0a065d677d355ec9f2d/index.m3u8
+龍翔時代,https://jntv.cc.cd/live/rx6/373/1211fae2ba7ce9108a5f0c0df696ab4b/index.m3u8
+AXN臺灣,https://jntv.cc.cd/live/rx6/2816/2eb64f9dc5fe51e0d8b6fbff2dcb925f/index.m3u8
+探索科學,https://jntv.cc.cd/live/rx6/343/e40c9b745506f250ea2cde9645e7389f/index.m3u8
+視納華仁紀實,https://jntv.cc.cd/live/rx1/91/5f5a81fcaab01cb8def6c948247dcd6e/index.m3u8
+探索動力DMAX,https://jntv.cc.cd/live/rx6/335/34eacff155e777c4e79f0dd8016836bb/index.m3u8
+Globetrotter（MOD）,https://jntv.cc.cd/live/rx6/3259/defc5ec606b2e4d698d0af6c69985528/index.m3u8
 
 
 
