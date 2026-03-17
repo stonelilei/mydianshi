@@ -123,8 +123,21 @@ BesTV-3,http://hn.lilei.life:5140/rtp/233.50.200.185:5140
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
-电影频道,#genre#
-天映新加坡,,https://cdn10.163189.xyz/stream/163189/typd/
+临时频道,#genre#
+华视,http://74.91.26.218:82/live/cts.m3u8
+中视,http://74.91.26.218:82/live/ctv.m3u8
+公视,http://74.91.26.218:82/live/pts.m3u8
+台视,http://74.91.26.218:82/live/ttv.m3u8
+民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
+民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
+公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
+中视菁采台,http://74.91.26.218:82/live/ctvjc.m3u8
+中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
+台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
+华视教育体育,http://74.91.26.218:82/live/ctsjy.m3u8
 天映经典频道,https://cdn10.163189.xyz/stream/163189/ccm/
 千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
 天映频道,http://o11.163189.xyz/stream/live/typd/
@@ -141,12 +154,6 @@ HBO HD,https://jntv.cc.cd/live/rx1/2823/8a2198921f121bda12a2d7c3d908bd29/index.m
 霹靂臺灣,https://jntv.cc.cd/live/rx2/1339/ad14e3e3f16d2ab0c67eaf809481453d/index.m3u8
 美亞電影,https://jntv.cc.cd/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8
 龍華經典,http://jntv.cc.cd/live/rx6/100/382f6a8ecde4c0a065d677d355ec9f2d/index.m3u8
-龍翔時代,https://jntv.cc.cd/live/rx6/373/1211fae2ba7ce9108a5f0c0df696ab4b/index.m3u8
-AXN臺灣,https://jntv.cc.cd/live/rx6/2816/2eb64f9dc5fe51e0d8b6fbff2dcb925f/index.m3u8
-探索科學,https://jntv.cc.cd/live/rx6/343/e40c9b745506f250ea2cde9645e7389f/index.m3u8
-視納華仁紀實,https://jntv.cc.cd/live/rx1/91/5f5a81fcaab01cb8def6c948247dcd6e/index.m3u8
-探索動力DMAX,https://jntv.cc.cd/live/rx6/335/34eacff155e777c4e79f0dd8016836bb/index.m3u8
-Globetrotter（MOD）,https://jntv.cc.cd/live/rx6/3259/defc5ec606b2e4d698d0af6c69985528/index.m3u8
 
 
 
