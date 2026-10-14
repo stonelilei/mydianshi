@@ -1,6 +1,6 @@
 央视,#genre#
-ZZZ9,http://lrj.wikiapp.uk:5140/rtsp/239.61.4.176:1025
-ZZZ9,http://lrj.wikiapp.uk:5140/rtsp/239.61.2.172:9020
+RTSP9,http://lrj.wikiapp.uk:5140/rtsp/27.148.237.40:554
+RTP9,http://lrj.wikiapp.uk:5140/rtp/239.61.3.61:9884
 DDD9,http://lrj.wikiapp.uk:5140/rtsp/27.148.237.40:554/live/ch17092110534875474266.sdp?playtype=1&FccMediaIP=239.61.2.172&FccMediaPort=9020&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092110534875474266&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSopXXyHvdGXXlYOLLa4tYK0ebum4NopcvVtAT8zgXUu6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 ZRTP9,http://lrj.wikiapp.uk:5140/rtp/239.61.4.176:1025
 ZRTP9,http://lrj.wikiapp.uk:5140/rtp/239.61.2.172:9020
